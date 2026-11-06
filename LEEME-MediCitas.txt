@@ -1,0 +1,16 @@
+MEDICITAS - PANEL ADMINISTRATIVO
+
+Cómo usar en Laragon:
+1. Descomprime esta carpeta en C:\laragon\www\dashboard-medico
+2. Inicia Apache desde Laragon.
+3. Abre http://localhost/dashboard-medico/index.php
+
+Páginas PHP del menú:
+- index.php: panel principal
+- pacientes.php: Pacientes
+- doctores.php: Doctores
+- agendar-cita.php: Agendar Cita
+- historial-clinico.php: Historial Clínico
+
+La plantilla conserva los recursos CSS, JavaScript, imágenes y fuentes originales.
+Este es un prototipo visual: no guarda datos médicos ni incluye base de datos o autenticación.
